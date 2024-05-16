@@ -4,10 +4,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-  <title>猿来入此|酒店管理系统预定房间</title>
-  <meta name="Author" content="猿来入此">
-  <meta name="Keywords" content="猿来入此酒店管理系统">
-  <meta name="Description" content="猿来入此酒店管理系统">
+  <title>酒店管理系统预定房间</title>
+  <meta name="Author" content="PPTNPC">
+  <meta name="Keywords" content="酒店管理系统">
+  <meta name="Description" content="酒店管理系统">
     <link rel="stylesheet" href="../../resources/home/css/index.css">
     <link rel="stylesheet" href="../../resources/home/css/order.css">
     <link rel="stylesheet" href="../../resources/home/css/jquery-ui.min.css">
