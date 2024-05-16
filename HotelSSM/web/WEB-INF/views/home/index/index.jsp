@@ -9,7 +9,7 @@
   <meta name="Description" content="酒店管理系统">
   <link href="../resources/home/css/reservation.css" type="text/css" rel="Stylesheet"/>
   <link href="../resources/home/css/index.css" type="text/css" rel="Stylesheet"/>
-<title>|酒店管理系统首页</title>
+<title>酒店管理系统首页</title>
 </head>
 <body>
 <!--头部-->
