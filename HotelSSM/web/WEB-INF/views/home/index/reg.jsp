@@ -4,9 +4,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
- <meta name="Author" content="猿来入此">
-  <meta name="Keywords" content="猿来入此酒店管理系统">
-  <meta name="Description" content="猿来入此酒店管理系统">
+ <meta name="Author" content="PPTNPC">
+  <meta name="Keywords" content="酒店管理系统">
+  <meta name="Description" content="酒店管理系统">
   <title>酒店管理系统注册页面</title>
   <link href="../resources/home/css/login.css" type="text/css" rel="Stylesheet" />
   <link href="../resources/home/css/regsiter.css" type="text/css" rel="Stylesheet" />
